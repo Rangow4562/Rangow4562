@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="Rangow4562" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-2510" alt="Rangow4562" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangow4562" alt="Rangow4562" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sarah-2510](https://github.com/Sarah-2510)
+- 👨‍💻 All of my projects are available at [https://github.com/Rangow4562](https://github.com/Rangow4562)
 
 - 📫 How to reach me **sarahjohn2510@gmail.com**
 
