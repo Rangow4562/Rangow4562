@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Sarah</h1>
+<h1 align="center">Hi 👋, I'm Ranjith Kumar K.N</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-2510" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-2510&label=Profile%20views&color=0e75b6&style=flat" alt="Rangow4562" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-2510" alt="sarah-2510" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-2510" alt="Rangow4562" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarah-2510](https://github.com/Sarah-2510)
 
