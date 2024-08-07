@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rangow4562](https://github.com/Rangow4562)
 
-- 📫 How to reach me **ranjith.go2260@gmail.com**
+- 📫 How to reach me **ranjith.kumar.kn26@gmail.com**
 
 - 👨‍💻 To Know more about me https://rangow4562.github.io/
 
