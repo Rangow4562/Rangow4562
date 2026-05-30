@@ -107,8 +107,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" alt="Footer Banner" />
 </div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" alt="Footer Banner" />
-</div>
