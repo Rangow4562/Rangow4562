@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:00E676&height=280&section=header&text=Ranjith%20Kumar%20K.N&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=00E676&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect&descSize=20&descAlignY=55&descColor=A5D6A7" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C853,100:00E676&height=280&section=header&text=Ranjith%20Kumar%20K.N&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect&descSize=20&descAlignY=55&descColor=A5D6A7" alt="Header Banner" />
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
@@ -147,7 +147,7 @@ philosophy: >
 
 ### 🧠 Core AI & Generative AI
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="Core" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,rust,cpp,java&theme=dark" alt="Core" />
 <br><br>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-00C853?style=for-the-badge&logo=openai&logoColor=0D1117)
@@ -162,6 +162,20 @@ philosophy: >
 ![TensorRT](https://img.shields.io/badge/TensorRT--LLM-A5D6A7?style=for-the-badge&logo=nvidia&logoColor=0D1117)
 ![Ollama](https://img.shields.io/badge/Ollama-A5D6A7?style=for-the-badge&logoColor=0D1117)
 ![ONNX](https://img.shields.io/badge/ONNX-A5D6A7?style=for-the-badge&logo=onnx&logoColor=0D1117)
+
+<br>
+
+### 🔌 Protocols & Agent Standards
+
+![MCP](https://img.shields.io/badge/MCP-00C853?style=for-the-badge&logo=anthropic&logoColor=0D1117)
+![A2A](https://img.shields.io/badge/A2A_(Agent--to--Agent)-00C853?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-00C853?style=for-the-badge&logo=json&logoColor=0D1117)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-00E676?style=for-the-badge&logo=openai&logoColor=0D1117)
+![Function Calling](https://img.shields.io/badge/Function_Calling-00E676?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-A5D6A7?style=for-the-badge&logo=openapiinitiative&logoColor=0D1117)
+![GraphQL](https://img.shields.io/badge/GraphQL-A5D6A7?style=for-the-badge&logo=graphql&logoColor=0D1117)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-00C853?style=for-the-badge&logo=anthropic&logoColor=0D1117)
+![Google Agent SDK](https://img.shields.io/badge/Google_Agent_SDK-00C853?style=for-the-badge&logo=google&logoColor=0D1117)
 
 <br>
 
@@ -207,7 +221,15 @@ philosophy: >
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rangow4562&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+  ![](https://img.shields.io/badge/🏆_Commits-Prolific_Contributor-00C853?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/🔥_Streak-Consistency_King-00C853?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/⭐_Stars-Open_Source_Star-00E676?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/🍴_Forks-Community_Builder-00E676?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/📦_Repos-Project_Architect-A5D6A7?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/🤝_PRs-Collaboration_Expert-A5D6A7?style=for-the-badge&labelColor=0D1117)
+  ![](https://img.shields.io/badge/💡_Issues-Problem_Solver-4CAF50?style=for-the-badge&labelColor=0D1117)
+
 </div>
 
 <br>
@@ -223,17 +245,17 @@ philosophy: >
 <div align="center">
 
   <a href="https://github.com/rangow4562">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rangow4562&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00C853&text_color=A5D6A7&ring_color=00E676" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00C853&text_color=A5D6A7&ring_color=00E676" alt="GitHub Stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/rangow4562">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangow4562&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=A5D6A7" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rangow4562&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=A5D6A7" alt="Top Languages" />
   </a>
 
   <br><br>
 
   <!-- Streak Stats -->
   <a href="https://github.com/rangow4562">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangow4562&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00E676&ring=00C853&fire=00E676&currStreakLabel=00E676&sideLabels=A5D6A7&currStreakNum=00E676&sideNums=A5D6A7&dates=4CAF50" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=rangow4562&hide_border=true&background=0D1117&stroke=00E676&ring=00C853&fire=00E676&currStreakLabel=00E676&sideLabels=A5D6A7&currStreakNum=00E676&sideNums=A5D6A7&dates=4CAF50" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -247,38 +269,6 @@ philosophy: >
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rangow4562&bg_color=0D1117&color=00E676&line=00C853&point=A5D6A7&area_color=00E676&area=true&hide_border=true&custom_title=🌿%20Contribution%20Activity%20Graph" alt="Activity Graph" width="95%" />
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION — Eating contributions                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 FEATURED GENAI PROJECTS                                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> &nbsp;Featured GenAI Projects
-
-<div align="center">
-
-<a href="https://github.com/rangow4562">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangow4562&repo=rangow4562&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00C853&text_color=A5D6A7" alt="Pinned Repo" />
-</a>
 
 </div>
 
