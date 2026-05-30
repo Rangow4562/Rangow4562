@@ -4,8 +4,8 @@
   
   <h3>🧠 Senior AI Engineer 🚀</h3>
   
-  <!-- NEW ADVANCED ANIMATION: Dynamic Typing Effect for Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0E75B600&center=true&vCenter=true&width=500&height=40&lines=Leading+MLOps+Implementations;Architecting+Scalable+ML+Systems;Driving+Innovation+in+AI;Specializing+in+Deep+Learning;DataScience+Thought+Leader" alt="Dynamic Title" />
+  <!-- Dynamic Typing Effect for Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0E75B600&center=true&vCenter=true&width=600&height=40&lines=Leading+MLOps+%26+LLM+Implementations;Architecting+Scalable+GenAI+Systems;Multi-Cloud+Data+Engineering;Specializing+in+Deep+Learning+%26+Automation;Data+Science+Thought+Leader" alt="Dynamic Title" />
 
   <br>
 
@@ -23,10 +23,10 @@
   <tr>
     <td width="60%" valign="top">
       <h2>⚡ About Me</h2>
-      <p>Architecting intelligent systems and transforming raw data into actionable insights. I specialize in building scalable machine learning models and deploying them using modern cloud infrastructure.</p>
+      <p>Architecting intelligent systems and transforming raw data into actionable insights. I specialize in building scalable machine learning models, fine-tuning Large Language Models (LLMs), and deploying them using modern multi-cloud infrastructure and automated CI/CD pipelines.</p>
       <ul>
-        <li>🚀 <b>Current Focus:</b> Advanced Deep Learning, Computer Vision & MLOps</li>
-        <li>💡 <b>Exploring:</b> Scalable Big Data Pipelines & Generative AI</li>
+        <li>🚀 <b>Current Focus:</b> GenAI, LLM Inference Optimization, Computer Vision & MLOps</li>
+        <li>💡 <b>Exploring:</b> Autonomous AI Agents, RAG Architectures & Advanced Cloud Automation</li>
         <li>📫 <b>Reach me at:</b> <a href="mailto:ranjith.kumar.kn26@gmail.com">ranjith.kumar.kn26@gmail.com</a></li>
       </ul>
     </td>
@@ -47,20 +47,29 @@
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
-  <p><strong>Core AI & Machine Learning</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit,opencv" alt="AI Stack" />
+  <p><strong>🧠 Core AI, Deep Learning & Generative AI</strong></p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit,opencv" alt="Core AI Stack" />
+  <br><br>
+  <!-- GenAI specific tools using custom shields -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow" />
+  <img src="https://img.shields.io/badge/LLM_Inference-Ollama%20%7C%20vLLM%20%7C%20TRT--LLM-FF6F00?style=for-the-badge" alt="LLM Inference" />
   
   <br><br>
   
-  <p><strong>Data Engineering & Cloud Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,mysql,linux,docker" alt="Cloud Stack" /> 
+  <p><strong>☁️ Cloud, Data Engineering & Containerization</strong></p>
+  <!-- Added GCP, Azure, Kubernetes -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,mysql,postgres,mongodb" alt="Cloud Stack" /> 
   <br>
-  <i>(Includes Hadoop & Hive ecosystem)</i>
+  <i>(Extensive experience with Hadoop, Hive, and Big Data Ecosystems)</i>
   
   <br><br>
   
-  <p><strong>Frameworks & Version Control</strong></p>
-  <img src="https://skillicons.dev/icons?i=flask,html,git,github" alt="Web Stack" />
+  <p><strong>⚙️ Frameworks, Automation & CI/CD</strong></p>
+  <!-- Added FastAPI, GitHub Actions, Jenkins, GitLab, Bash -->
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,githubactions,gitlab,jenkins,linux,bash" alt="Automation Stack" />
 </div>
 
 <br>
@@ -70,7 +79,6 @@
 <!-- Dashboard Section 3: Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- The stats code has been verified and updated for maximum compatibility -->
 <div align="center">
   <!-- Top Languages & Overall Stats in a flexible container -->
   <p align="center">
