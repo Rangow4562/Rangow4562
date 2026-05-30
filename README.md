@@ -2,8 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Ranjith%20Kumar%20K.N&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
   
-  <h3>🧠 AI Engineer | Data Scientist | Machine Learning Architect</h3>
+  <h3>🧠 Senior AI Engineer 🚀</h3>
   
+  <!-- NEW ADVANCED ANIMATION: Dynamic Typing Effect for Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=0E75B600&center=true&vCenter=true&width=500&height=40&lines=Leading+MLOps+Implementations;Architecting+Scalable+ML+Systems;Driving+Innovation+in+AI;Specializing+in+Deep+Learning;DataScience+Thought+Leader" alt="Dynamic Title" />
+
+  <br>
+
   <p align="center">
     <a href="https://rangow4562.github.io/" target="_blank">Portfolio</a> • 
     <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191" target="_blank">LinkedIn</a> • 
@@ -65,17 +70,26 @@
 <!-- Dashboard Section 3: Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- The stats code has been verified and updated for maximum compatibility -->
 <div align="center">
-  <!-- Top Languages & Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rangow4562&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rangow4562&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="Top Languages" height="195" />
+  <!-- Top Languages & Overall Stats in a flexible container -->
+  <p align="center">
+    <a href="https://github.com/rangow4562">
+      <img src="https://github-readme-stats.vercel.app/api?username=rangow4562&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6&count_private=true" alt="Ranjith's GitHub Stats" height="195" />
+    </a>
+    <a href="https://github.com/rangow4562">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rangow4562&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&count_private=true" alt="Ranjith's Top Languages" height="195" />
+    </a>
+  </p>
 </div>
-
-<br>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangow4562&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="GitHub Streak" />
+  <p align="center">
+    <a href="https://github.com/rangow4562">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangow4562&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="GitHub Streak" />
+    </a>
+  </p>
 </div>
 
 <br>
