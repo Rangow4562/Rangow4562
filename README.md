@@ -77,16 +77,17 @@
 ---
 
 <!-- Dashboard Section 3: Analytics -->
+<!-- Dashboard Section 3: Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- Top Languages & Overall Stats in a flexible container -->
+  <!-- Top Languages & Overall Stats -->
   <p align="center">
     <a href="https://github.com/rangow4562">
-      <img src="https://github-readme-stats.vercel.app/api?username=rangow4562&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6&count_private=true" alt="Ranjith's GitHub Stats" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rangow4562&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&icon_color=0E75B6" alt="Ranjith's GitHub Stats" height="195" />
     </a>
     <a href="https://github.com/rangow4562">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rangow4562&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6&count_private=true" alt="Ranjith's Top Languages" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangow4562&layout=compact&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="Ranjith's Top Languages" height="195" />
     </a>
   </p>
 </div>
@@ -101,6 +102,11 @@
 </div>
 
 <br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" alt="Footer Banner" />
+</div>
 
 <!-- Footer -->
 <div align="center">
