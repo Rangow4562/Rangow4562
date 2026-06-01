@@ -17,7 +17,7 @@
   <br>
 
   <!-- Social Shields — Green-themed -->
-  <a href="https://rangow4562.github.io/" target="_blank">
+  <a href="https://ranjithkumarkn.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191" target="_blank">
@@ -284,7 +284,7 @@ philosophy: >
 
 <div align="center">
 
-<a href="https://rangow4562.github.io/" target="_blank">
+<a href="https://ranjithkumarkn.online/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=00E676" alt="Portfolio" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191" target="_blank">
