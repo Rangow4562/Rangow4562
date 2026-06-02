@@ -8,9 +8,8 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0533,30:4C1D95,60:7C3AED,100:A78BFA&height=320&section=header&text=Ranjith%20Kumar%20K.N&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect%20%7C%20ML%20Systems%20Engineer&descSize=18&descAlignY=56&descColor=C4B5FD" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0533,30:4C1D95,60:7C3AED,100:A78BFA&height=130&section=header&text=Ranjith%20Kumar%20K.N&fontSize=56&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect%20%7C%20ML%20Systems%20Engineer&descSize=18&descAlignY=68&descColor=C4B5FD" alt="Hero Banner" />
 </div>
-
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔮 TYPING ANIMATION — Faster, multi-line rotating GenAI taglines            -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
@@ -18,10 +17,13 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=A78BFA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%9C+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=500&color=A78BFA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%9C+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
   </a>
 
 </div>
+
+
+
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🛡️ SOCIAL SHIELDS — Purple-themed with status indicators                    -->
