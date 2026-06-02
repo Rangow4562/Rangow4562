@@ -543,7 +543,7 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%93%AC%20Let%27s%20Connect%20%26%20Build%20the%20Future&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Let's Connect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=Lets%20Connect%20and%20Build%20the%20Future&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" />
 </div>
 
 <div align="center">
