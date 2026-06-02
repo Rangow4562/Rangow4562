@@ -18,7 +18,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=A78BFAD&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%9C+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=A78BFA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%9C+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
   </a>
 
 </div>
@@ -58,11 +58,11 @@
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER — Custom purple neon line                                -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -72,10 +72,8 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%E2%98%85%20About%20Me%20%E2%80%94%20GenAI%20Architect%20%26%20ML%20Systems%20Engineer&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%E2%98%85%20About%20Me&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="About Me" />
 </div>
-
-<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
 
@@ -113,10 +111,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%8E%AF%20Currently%20Building&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8E%AF%20Currently%20Building&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Currently Building" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -150,11 +146,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -164,10 +160,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%9A%80%20GenAI%20Expertise%20%26%20Specializations&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8C%90%20GenAI%20Expertise&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Architecture Vision" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -227,10 +221,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%8C%90%20End--to--End%20GenAI%20Architecture%20Vision&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8C%90%20GenAI%20Architecture%20Vision&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Architecture Vision" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -258,11 +250,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -272,10 +264,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Technical%20Arsenal&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Technical%20Arsenal&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Technical Arsenal" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -347,11 +337,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -361,10 +351,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%8F%86%20GitHub%20Achievements&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8F%86%20GitHub%20Achievements&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="GitHub Achievements" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -389,11 +377,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -403,10 +391,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics%20Dashboard&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics%20Dashboard&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="GitHub Analytics" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -441,10 +427,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Contribution Snake" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -471,11 +455,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -485,10 +469,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%94%AE%20Skill%20Proficiency%20Radar&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%94%AE%20Skill%20Proficiency%20Radar&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Skill Proficiency" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -545,11 +527,11 @@ philosophy: >
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ ANIMATED DIVIDER                                                         -->
+<!-- ✨ NEON DIVIDER                                                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=4&color=7C3AED&text=%20&section=header&reversal=false&stroke=A78BFA&storkeWidth=0" width="100%" alt="Neon Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
 </div>
 
 <br>
@@ -559,10 +541,8 @@ philosophy: >
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4C1D95&height=50&section=header&text=%F0%9F%93%AC%20Let%27s%20Connect%20%26%20Build%20the%20Future%20of%20AI&fontSize=22&fontColor=C4B5FD&fontAlign=50&desc=" alt="Section Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%93%AC%20Let%27s%20Connect%20%26%20Build%20the%20Future&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Let's Connect" />
 </div>
-
-<br>
 
 <div align="center">
 
