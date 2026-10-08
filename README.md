@@ -1,83 +1,61 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💜 ADVANCED PURPLE README — Ranjith Kumar K.N                                  -->
-<!-- Modern • Animated • Feature-Rich • Production-Grade                             -->
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Soft Blue README — Ranjith Kumar K.N -->
+<!-- Palette: #DBEAFE (mist) · #93C5FD (sky) · #60A5FA (blue) · #5B9BD5 (badges) · #3B82F6 (accent) · #1E3A8A (ink) -->
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 HERO HEADER — Animated cylinder banner with deep purple gradient          -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────── HERO ─────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0533,30:4C1D95,60:7C3AED,100:A78BFA&height=130&section=header&text=Ranjith%20Kumar%20K.N&fontSize=56&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect%20%7C%20ML%20Systems%20Engineer&descSize=18&descAlignY=68&descColor=C4B5FD" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DBEAFE,40:93C5FD,100:60A5FA&height=130&section=header&text=Ranjith%20Kumar%20K.N&fontSize=56&fontAlignY=40&animation=twinkling&fontColor=1E3A8A&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect%20%7C%20ML%20Systems%20Engineer&descSize=18&descAlignY=68&descColor=1E40AF" alt="Hero Banner" />
 </div>
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔮 TYPING ANIMATION — Faster, multi-line rotating GenAI taglines            -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
 
 <div align="center">
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=500&color=A78BFA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%9C+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=500&color=3B82F6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%99+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
   </a>
-
 </div>
 
-
-
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛡️ SOCIAL SHIELDS — Purple-themed with status indicators                    -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────── LINKS ─────────────────────────── -->
 
 <div align="center">
 
   <a href="https://ranjithkumarkn.online/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-5B9BD5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://www.kaggle.com/rangow" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-7C3AED?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-5B9BD5?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
   </a>&nbsp;
   <a href="mailto:ranjith.kumar.kn26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-5B9BD5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>&nbsp;
-  <a href="https://github.com/rangow4562" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <a href="https://github.com/Rangow4562" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-5B9BD5?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=rangow4562&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rangow4562&label=Profile+Views&color=60A5FA&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Collaborate-8B5CF6?style=flat-square&labelColor=0D1117" alt="Open to Collaborate" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Collaborate-93C5FD?style=flat-square&labelColor=334155" alt="Open to Collaborate" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Available_for_Hire-A78BFA?style=flat-square&labelColor=0D1117" alt="Available" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Available_for_Hire-60A5FA?style=flat-square&labelColor=334155" alt="Available" />
 
 </div>
 
 <br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠 ABOUT ME — GenAI-Focused Bio with Animated Sidebar                       -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%E2%98%85%20About%20Me&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=About%20Me&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="About Me" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding animation" />
 
 ```yaml
 name: Ranjith Kumar K.N
@@ -106,14 +84,10 @@ philosophy: >
 
 <br clear="both">
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 CURRENTLY WORKING ON — Live status indicators                            -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────── CURRENTLY BUILDING ───────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8E%AF%20Currently%20Building&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Currently Building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Currently%20Building&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Currently Building" />
 </div>
 
 <div align="center">
@@ -121,22 +95,22 @@ philosophy: >
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Agents-Active-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Agents" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Agents-Active-5B9BD5?style=for-the-badge&labelColor=334155" alt="Agents" />
   <br><sub><b>Autonomous AI Agents</b></sub>
   <br><sub>Tool-use • Planning • MCP</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC_LLMs-Fine--Tuning-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="LLMs" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC_LLMs-Fine--Tuning-6BA8E0?style=for-the-badge&labelColor=334155" alt="LLMs" />
   <br><sub><b>LLM Fine-Tuning</b></sub>
   <br><sub>LoRA • QLoRA • RLHF • DPO</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97_RAG-Production-A78BFA?style=for-the-badge&labelColor=0D1117" alt="RAG" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%97_RAG-Production-7FB3E8?style=for-the-badge&labelColor=334155" alt="RAG" />
   <br><sub><b>RAG Pipelines</b></sub>
   <br><sub>Hybrid Search • Graph RAG</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Inference-Scaling-C4B5FD?style=for-the-badge&labelColor=0D1117" alt="Inference" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Inference-Scaling-93C5FD?style=for-the-badge&labelColor=334155" alt="Inference" />
   <br><sub><b>Inference at Scale</b></sub>
   <br><sub>vLLM • TensorRT-LLM • Triton</sub>
 </td>
@@ -146,23 +120,13 @@ philosophy: >
 </div>
 
 <br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 GENAI EXPERTISE — Deep-Dive Cards with Sub-categories                    -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────────── EXPERTISE ───────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8C%90%20GenAI%20Expertise&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Architecture Vision" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GenAI%20Expertise&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GenAI Expertise" />
 </div>
 
 <div align="center">
@@ -218,12 +182,10 @@ philosophy: >
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 ARCHITECTURE VISION — End-to-End GenAI Pipeline                         -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────── ARCHITECTURE ─────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8C%90%20GenAI%20Architecture%20Vision&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Architecture Vision" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GenAI%20Architecture%20Vision&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GenAI Architecture Vision" />
 </div>
 
 <div align="center">
@@ -250,163 +212,125 @@ philosophy: >
 </div>
 
 <br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK — Animated Skill Badges with Categories                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────── TECH STACK ─────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Technical%20Arsenal&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Technical Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Technical%20Arsenal&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Technical Arsenal" />
 </div>
 
 <div align="center">
 
 ### 🧠 Core AI & Generative AI
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,rust,cpp,java&theme=dark" alt="Core Languages" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,rust,cpp,java&theme=light" alt="Core Languages" />
 <br><br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Google Gemini](https://img.shields.io/badge/Gemini-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![Anthropic](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-8B5CF6?style=for-the-badge&logo=chainlink&logoColor=FFFFFF)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=FFFFFF)
-![MLflow](https://img.shields.io/badge/MLflow-8B5CF6?style=for-the-badge&logo=mlflow&logoColor=FFFFFF)
-![Weights & Biases](https://img.shields.io/badge/W%26B-8B5CF6?style=for-the-badge&logo=weightsandbiases&logoColor=FFFFFF)
-![vLLM](https://img.shields.io/badge/vLLM-A78BFA?style=for-the-badge&logoColor=FFFFFF)
-![TensorRT](https://img.shields.io/badge/TensorRT--LLM-A78BFA?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
-![Ollama](https://img.shields.io/badge/Ollama-A78BFA?style=for-the-badge&logoColor=FFFFFF)
-![ONNX](https://img.shields.io/badge/ONNX-A78BFA?style=for-the-badge&logo=onnx&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![Google Gemini](https://img.shields.io/badge/Gemini-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
+![Anthropic](https://img.shields.io/badge/Claude-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-5B9BD5?style=for-the-badge&logo=huggingface&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![MLflow](https://img.shields.io/badge/MLflow-5B9BD5?style=for-the-badge&logo=mlflow&logoColor=FFFFFF)
+![Weights & Biases](https://img.shields.io/badge/W%26B-5B9BD5?style=for-the-badge&logo=weightsandbiases&logoColor=FFFFFF)
+![vLLM](https://img.shields.io/badge/vLLM-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![TensorRT](https://img.shields.io/badge/TensorRT--LLM-5B9BD5?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![ONNX](https://img.shields.io/badge/ONNX-5B9BD5?style=for-the-badge&logo=onnx&logoColor=FFFFFF)
 
 <br>
 
 ### 🔌 Protocols & Agent Standards
 
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![A2A](https://img.shields.io/badge/A2A_(Agent--to--Agent)-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![JSON-RPC](https://img.shields.io/badge/JSON--RPC-7C3AED?style=for-the-badge&logo=json&logoColor=FFFFFF)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-8B5CF6?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Function Calling](https://img.shields.io/badge/Function_Calling-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-A78BFA?style=for-the-badge&logo=openapiinitiative&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/GraphQL-A78BFA?style=for-the-badge&logo=graphql&logoColor=FFFFFF)
-![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-7C3AED?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![Google Agent SDK](https://img.shields.io/badge/Google_Agent_SDK-7C3AED?style=for-the-badge&logo=google&logoColor=FFFFFF)
+![MCP](https://img.shields.io/badge/MCP-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+![A2A](https://img.shields.io/badge/A2A_(Agent--to--Agent)-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-5B9BD5?style=for-the-badge&logo=json&logoColor=FFFFFF)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![Function Calling](https://img.shields.io/badge/Function_Calling-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-5B9BD5?style=for-the-badge&logo=openapiinitiative&logoColor=FFFFFF)
+![GraphQL](https://img.shields.io/badge/GraphQL-5B9BD5?style=for-the-badge&logo=graphql&logoColor=FFFFFF)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+![Google Agent SDK](https://img.shields.io/badge/Google_Agent_SDK-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
 
 <br>
 
 ### 🗄️ Vector Databases & Data Stores
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=FFFFFF)
-![Pinecone](https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge&logoColor=FFFFFF)
-![Weaviate](https://img.shields.io/badge/Weaviate-7C3AED?style=for-the-badge&logoColor=FFFFFF)
-![Qdrant](https://img.shields.io/badge/Qdrant-7C3AED?style=for-the-badge&logoColor=FFFFFF)
-![FAISS](https://img.shields.io/badge/FAISS-8B5CF6?style=for-the-badge&logo=meta&logoColor=FFFFFF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![Pinecone](https://img.shields.io/badge/Pinecone-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![Weaviate](https://img.shields.io/badge/Weaviate-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![Qdrant](https://img.shields.io/badge/Qdrant-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![FAISS](https://img.shields.io/badge/FAISS-5B9BD5?style=for-the-badge&logo=meta&logoColor=FFFFFF)
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light" alt="Databases" />
 
 <br>
 
 ### ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=light" alt="Cloud" />
 <br><br>
 
-![SageMaker](https://img.shields.io/badge/SageMaker-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
-![Azure ML](https://img.shields.io/badge/Azure_ML-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
-![Terraform](https://img.shields.io/badge/Terraform-8B5CF6?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
-![Triton](https://img.shields.io/badge/Triton_Server-8B5CF6?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
+![SageMaker](https://img.shields.io/badge/SageMaker-5B9BD5?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-5B9BD5?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
+![Azure ML](https://img.shields.io/badge/Azure_ML-5B9BD5?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
+![Terraform](https://img.shields.io/badge/Terraform-5B9BD5?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
+![Triton](https://img.shields.io/badge/Triton_Server-5B9BD5?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
 
 <br>
 
 ### ⚙️ Development & Automation
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,githubactions,gitlab,jenkins,linux,bash,vscode&theme=dark" alt="Dev Tools" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,githubactions,gitlab,jenkins,linux,bash,vscode&theme=light" alt="Dev Tools" />
 
 </div>
 
 <br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES — Animated trophy showcase                               -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────── ACHIEVEMENTS ─────────────────────── -->
+<!-- The trophy image service (github-profile-trophy.vercel.app) returns HTTP 402 and is removed. -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%8F%86%20GitHub%20Achievements&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="GitHub Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GitHub%20Achievements&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GitHub Achievements" />
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=rangow4562&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" width="100%" />
+  ![](https://img.shields.io/badge/🏆_Commits-Prolific_Contributor-5B9BD5?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/🔥_Streak-Consistency_King-5B9BD5?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/⭐_Stars-Open_Source_Star-6BA8E0?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/🍴_Forks-Community_Builder-6BA8E0?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/📦_Repos-Project_Architect-7FB3E8?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/🤝_PRs-Collaboration_Expert-7FB3E8?style=for-the-badge&labelColor=334155)
+  ![](https://img.shields.io/badge/💡_Issues-Problem_Solver-93C5FD?style=for-the-badge&labelColor=334155)
 
 </div>
 
 <br>
-
-<div align="center">
-
-  ![](https://img.shields.io/badge/🏆_Commits-Prolific_Contributor-7C3AED?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/🔥_Streak-Consistency_King-7C3AED?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/⭐_Stars-Open_Source_Star-8B5CF6?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/🍴_Forks-Community_Builder-8B5CF6?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/📦_Repos-Project_Architect-A78BFA?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/🤝_PRs-Collaboration_Expert-A78BFA?style=for-the-badge&labelColor=0D1117)
-  ![](https://img.shields.io/badge/💡_Issues-Problem_Solver-6D28D9?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────────── ANALYTICS ───────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS — Advanced multi-card stats layout                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics%20Dashboard&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="GitHub Analytics" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GitHub%20Analytics&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GitHub Analytics" />
 </div>
 
 <div align="center">
 
-  <!-- Main Stats + Top Languages -->
-  <a href="https://github.com/rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/Rangow4562">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rangow4562&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" alt="Top Languages" />
+  <a href="https://github.com/Rangow4562">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rangow4562&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B&langs_count=10" alt="Top Languages" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=8B5CF6&count_private=true&include_all_commits=true&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+  <a href="https://github.com/Rangow4562">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&count_private=true&include_all_commits=true&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
   </a>
 
 </div>
@@ -415,171 +339,87 @@ philosophy: >
 
 <div align="center">
 
-  <!-- Streak Stats — Purple -->
-  <a href="https://github.com/rangow4562">
-    <img src="https://streak-stats.demolab.com/?user=rangow4562&hide_border=true&background=0D1117&stroke=8B5CF6&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=C4B5FD&dates=6D28D9&date_format=%5BY%20%5Dj%20%5BM%20%5Dd&mode=weekly" alt="GitHub Streak" />
+  <a href="https://github.com/Rangow4562">
+    <img src="https://streak-stats.demolab.com/?user=rangow4562&hide_border=true&background=00000000&stroke=93C5FD&ring=60A5FA&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=64748B&currStreakNum=64748B&sideNums=64748B&dates=94A3B8&date_format=%5BY%20%5Dj%20%5BM%20%5Dd&mode=weekly" alt="GitHub Streak" />
   </a>
 
 </div>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE — Purple-themed with dark/light mode                  -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ───────────────────── CONTRIBUTION SNAKE ─────────────────────
+  The snake images returned 404 because the `output` branch does not exist yet.
+  1. Add .github/workflows/snake.yml (included alongside this README).
+  2. Run it once: Actions → "Generate Contribution Snake" → Run workflow.
+  3. Remove this comment wrapper so the block below is active.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Contribution Snake" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Contribution%20Snake&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Contribution Snake" />
 </div>
 
 <div align="center">
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rangow4562/rangow4562/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rangow4562/Rangow4562/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rangow4562/Rangow4562/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rangow4562/Rangow4562/output/github-snake.svg" />
   </picture>
+</div>
+-->
 
+<!-- The activity-graph service (github-readme-activity-graph.vercel.app) returns HTTP 402 and is removed. -->
+
+<br>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<br>
+
+<!-- ─────────────────────── SKILL PROFICIENCY ─────────────────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Skill%20Proficiency&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Skill Proficiency" />
+</div>
+
+<div align="center">
+  <img src="./assets/skills.svg" width="800" alt="Skill proficiency: AI/ML 95%, RAG Systems 92%, AI Agents 88%, MLOps 85%, Cloud 82%, Backend 86%" />
 </div>
 
 <br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 CONTRIBUTION ACTIVITY GRAPH — Purple themed                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rangow4562&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=8B5CF6&area=true&hide_border=true&custom_title=%F0%9F%92%9C%20Contribution%20Activity%20Graph&radius=8" alt="Activity Graph" width="95%" />
-
-</div>
-
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔮 TECH RADAR — Skill Proficiency Overview                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=%F0%9F%94%AE%20Skill%20Proficiency%20Radar&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" alt="Skill Proficiency" />
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<th align="center" colspan="4"><img src="https://img.shields.io/badge/%F0%9F%8E%AF_Core_Competency_Map-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Competency Map" /></th>
-</tr>
-<tr>
-<td align="center">
-
-| 🤖 AI/ML | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 95% |
-|:--------:|:-------------------:|
-
-</td>
-<td align="center">
-
-| 🔗 RAG Systems | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 92% |
-|:--------------:|:-------------------:|
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-| 🎯 AI Agents | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 88% |
-|:------------:|:-------------------:|
-
-</td>
-<td align="center">
-
-| 🏗️ MLOps | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85% |
-|:--------:|:-------------------:|
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-| ☁️ Cloud | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 82% |
-|:-------:|:-------------------:|
-
-</td>
-<td align="center">
-
-| 💻 Backend | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 86% |
-|:---------:|:-------------------:|
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ NEON DIVIDER                                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=3&color=7C3AED&text=%20&section=header&reversal=false" width="100%" alt="Neon Divider" />
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📬 CONNECT WITH ME — Enhanced contact section                               -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=80&section=header&text=Lets%20Connect%20and%20Build%20the%20Future&fontSize=26&fontAlignY=45&fontColor=C4B5FD&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Let%27s%20Connect%20and%20Build%20the%20Future&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Let's Connect" />
 </div>
 
 <div align="center">
 
 <a href="https://ranjithkumarkn.online/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-5B9BD5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/ranjith-kumar-58a676191" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/ranjith-kumar-58a676191/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>&nbsp;
 <a href="https://www.kaggle.com/rangow" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=A78BFA" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-5B9BD5?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
 </a>&nbsp;
 <a href="mailto:ranjith.kumar.kn26@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-5B9BD5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
 </a>&nbsp;
-<a href="https://github.com/rangow4562" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
+<a href="https://github.com/Rangow4562" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-5B9BD5?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it%20with%20AI.&author=Ranjith%20Kumar%20K.N" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it%20with%20AI.&author=Ranjith%20Kumar%20K.N" alt="Quote" />
 
 </div>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💜 FOOTER — Elegant purple gradient wave                                     -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────── FOOTER ─────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,30:A78BFA,60:7C3AED,100:0D1117&height=140&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:93C5FD,100:60A5FA&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
 </div>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💜 Crafted with passion for GenAI by Ranjith Kumar K.N                          -->
-<!-- ══════════════════════════════════════════════════════════════════════════════════ -->
