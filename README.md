@@ -1,118 +1,240 @@
-<!-- Soft Blue README — Ranjith Kumar K.N -->
-<!-- Palette: #DBEAFE (mist) · #93C5FD (sky) · #60A5FA (blue) · #5B9BD5 (badges) · #3B82F6 (accent) · #1E3A8A (ink) -->
+<!-- Boreal Architectural README — Ranjith Kumar K.N -->
+<!-- Palette: #F8FAFC (paper) · #F1F5F9 (surface) · #CBD5E1 (hairline) · #64748B (muted) · #334155 (slate) · #0F172A (deep ink) -->
 
-<!-- ─────────────────────────── HERO ─────────────────────────── -->
+<!-- ─────────────────────────── [00] HERO ─────────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DBEAFE,40:93C5FD,100:60A5FA&height=130&section=header&text=Ranjith%20Kumar%20K.N&fontSize=56&fontAlignY=40&animation=twinkling&fontColor=1E3A8A&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20Architect%20%7C%20ML%20Systems%20Engineer&descSize=18&descAlignY=68&descColor=1E40AF" alt="Hero Banner" />
+  <img src="https://img.shields.io/badge/RANJITH_AI-ACCESS_HEALTHCARE_%C2%B7_SENIOR_AI_ARCHITECT-0F172A?style=flat-square&labelColor=F1F5F9" alt="Role" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%5B00%5D_STAGE-HERO_%2F%2F_BOREAL-334155?style=flat-square&labelColor=F1F5F9" alt="Stage 00" />
 </div>
 
-<!-- ───────────────────── TYPING ANIMATION ───────────────────── -->
+<br>
+
+<div align="center">
+  <a href="https://ranjithkumarkn.online/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8FAFC,100:F1F5F9&height=165&section=header&text=Build%20at%20frontier%20scale.&fontSize=48&fontAlignY=44&fontColor=0F172A&desc=RANJITH%20KUMAR%20K.N%20%C2%B7%20PRODUCTION%20AI%20ARCHITECT%20%C2%B7%20BENGALURU&descSize=13&descAlignY=74&descColor=475569&animation=fadeIn" width="100%" alt="Ranjith Kumar K.N — Build at frontier scale." />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    <b>Production multi-agent harnesses, Model Context Protocol (MCP), GraphRAG, and low-latency LLM serving.</b><br>
+    <sub>Delivering 97.2% deterministic workflows and 45% P99 latency cuts across enterprise clinical operations.</sub>
+  </p>
+</div>
+
+<!-- ───────────────────── TYPING SUBHEADER ───────────────────── -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=500&color=3B82F6&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Tool-Use+%26+Planning;%F0%9F%A7%AC+Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;%E2%9A%A1+Scaling+GenAI+from+Prototype+to+Production+at+Enterprise+Scale;%F0%9F%94%97+Designing+Production-Grade+RAG+Architectures+%26+Knowledge+Systems;%F0%9F%8C%90+Multi-Modal+AI+%E2%80%94+Vision+%2B+Language+%2B+Code+%2B+Reasoning;%F0%9F%92%99+Architecting+the+Future+of+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=600&color=0F172A&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=40&lines=Multi-Agent+Harnesses+%C2%B7+MCP+%C2%B7+GraphRAG+%C2%B7+Low-Latency+LLM+Serving;Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;97.2%25+Deterministic+Accuracy+%C2%B7+-45%25+P99+Latency+%C2%B7+AWQ+%2F+FP8;Systems+that+matter+in+the+real+world.+%E2%80%94+From+ideas+to+real+systems." alt="Typing SVG" />
   </a>
 </div>
+
+<!-- ───────────────────── TELEMETRY KPI STRIP ───────────────────── -->
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center" width="20%">
+    <sub><code>DETERMINISTIC ACCURACY</code></sub><br>
+    <h3>97.2%</h3>
+  </td>
+  <td align="center" width="20%">
+    <sub><code>P99 LATENCY CUT</code></sub><br>
+    <h3>-45%</h3>
+  </td>
+  <td align="center" width="20%">
+    <sub><code>SYSTEM UPTIME</code></sub><br>
+    <h3>99.9%</h3>
+  </td>
+  <td align="center" width="20%">
+    <sub><code>QUANTIZATION</code></sub><br>
+    <h3>AWQ / FP8</h3>
+  </td>
+  <td align="center" width="20%">
+    <sub><code>STACK DEPTH</code></sub><br>
+    <h3>07 Layers</h3>
+  </td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <!-- ─────────────────────────── LINKS ─────────────────────────── -->
 
 <div align="center">
 
   <a href="https://ranjithkumarkn.online/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-5B9BD5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio_%E2%86%92-0F172A?style=for-the-badge&logo=googlechrome&logoColor=F8FAFC" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-F1F5F9?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://www.kaggle.com/rangow" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-5B9BD5?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-F1F5F9?style=for-the-badge&logo=kaggle&logoColor=0F172A" alt="Kaggle" />
   </a>&nbsp;
   <a href="mailto:ranjith.kumar.kn26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-5B9BD5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F1F5F9?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
   </a>&nbsp;
   <a href="https://github.com/Rangow4562" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-5B9BD5?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-F1F5F9?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=rangow4562&label=Profile+Views&color=60A5FA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rangow4562&label=PROFILE+VIEWS&color=0F172A&labelColor=F1F5F9&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Collaborate-93C5FD?style=flat-square&labelColor=334155" alt="Open to Collaborate" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0F172A?style=flat-square&labelColor=F1F5F9" alt="Open to Collaborate" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Available_for_Hire-60A5FA?style=flat-square&labelColor=334155" alt="Available" />
+  <img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C_IN-334155?style=flat-square&labelColor=F1F5F9" alt="Bengaluru" />
 
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><sub><code>─────────────────────────────── ┼ ───────────────────────────────</code></sub></div>
 <br>
 
-<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
+<!-- ───────────────────────── [01] ABOUT ───────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=About%20Me&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="About Me" />
+  <img src="https://img.shields.io/badge/%5B01%5D_STAGE-ABOUT_%2F%2F_SYSTEM_SPEC-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 01 About" />
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding animation" />
+<br>
 
 ```yaml
-name: Ranjith Kumar K.N
-role: Senior AI Engineer
-location: India 🇮🇳
-specialization: Generative AI & Large Language Models
-experience: 5+ Years in AI/ML Engineering
+# SPECTRUM: BOREAL · SYSTEM SPECIFICATION
+architect:
+  name: Ranjith Kumar K.N
+  role: Senior AI Architect @ Access Healthcare
+  location: Bengaluru, India
+  experience: 5+ Years in Production AI & ML Systems
+  focus: Multi-Agent Harnesses · MCP · GraphRAG · Low-Latency LLM Serving
+
+benchmarks:
+  deterministic_accuracy: "97.2%"
+  p99_latency_reduction:  "-45%"
+  system_uptime:          "99.9%"
+  quantization:           "AWQ / FP8"
+  stack_depth:            "07 Layers"
 
 current_mission:
-  - 🤖  Building Autonomous AI Agents with tool-use & planning
-  - 🧬  Fine-tuning LLMs (LoRA, QLoRA, RLHF, DPO)
-  - 🔗  Designing production-grade RAG architectures
-  - 🏗️  Scaling GenAI inference (vLLM, TensorRT-LLM, Triton)
-  - 🌐  Multi-modal AI — Vision + Language + Code
+  - Designing deterministic multi-agent harnesses with tool-use & planning
+  - Fine-tuning domain LLMs (LoRA, QLoRA, RLHF, DPO, SFT)
+  - Architecting GraphRAG & hybrid retrieval pipelines at enterprise scale
+  - Optimizing low-latency inference (vLLM, TensorRT-LLM, Triton, AWQ/FP8)
+  - Building multi-modal AI systems across Vision, Language, and Code
 
 exploring:
-  - 🧪  Mixture of Experts (MoE) & Sparse Architectures
-  - 🎯  AI Agent Frameworks (LangGraph, CrewAI, AutoGen)
-  - 📊  Evaluation & Guardrails for GenAI systems
-  - ⚡  On-device LLM inference & Edge AI deployment
+  - Mixture of Experts (MoE) & sparse routing architectures
+  - Agent protocols (MCP, A2A) & deterministic evaluation guardrails
+  - On-device & edge LLM inference optimization
 
-philosophy: >
-  "The best AI systems are invisible — they amplify human
-   capability without friction."
+ethos: >
+  "Systems that matter in the real world — from ideas to real systems."
 ```
 
-<br clear="both">
+<br>
 
-<!-- ───────────────────── CURRENTLY BUILDING ───────────────────── -->
+<!-- ─────────────────── [02] CURRENTLY BUILDING ─────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Currently%20Building&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Currently Building" />
+  <img src="https://img.shields.io/badge/%5B02%5D_STAGE-ACTIVE_SYSTEMS-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 02 Active Systems" />
 </div>
+
+<br>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Agents-Active-5B9BD5?style=for-the-badge&labelColor=334155" alt="Agents" />
-  <br><sub><b>Autonomous AI Agents</b></sub>
-  <br><sub>Tool-use • Planning • MCP</sub>
+  <td align="center" width="25%">
+    <img src="https://img.shields.io/badge/01-AGENTS-0F172A?style=flat-square&labelColor=F1F5F9" alt="Agents" />
+    <br><br><b>Multi-Agent Harnesses</b>
+    <br><sub>Tool-Use · Planning · MCP</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://img.shields.io/badge/02-MODELS-0F172A?style=flat-square&labelColor=F1F5F9" alt="LLMs" />
+    <br><br><b>LLM Fine-Tuning</b>
+    <br><sub>LoRA · QLoRA · RLHF · DPO</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://img.shields.io/badge/03-KNOWLEDGE-0F172A?style=flat-square&labelColor=F1F5F9" alt="RAG" />
+    <br><br><b>GraphRAG Pipelines</b>
+    <br><sub>Hybrid Search · Re-Ranking</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://img.shields.io/badge/04-SERVING-0F172A?style=flat-square&labelColor=F1F5F9" alt="Inference" />
+    <br><br><b>Low-Latency Serving</b>
+    <br><sub>vLLM · AWQ / FP8 · Triton</sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+<br>
+<div align="center"><sub><code>─────────────────────────────── ┼ ───────────────────────────────</code></sub></div>
+<br>
+
+<!-- ─────────────────────── [03] EXPERTISE ─────────────────────── -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%5B03%5D_STAGE-GENAI_EXPERTISE-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 03 Expertise" />
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` Large Language Models
+- **Fine-Tuning** — LoRA, QLoRA, PEFT, RLHF, DPO, SFT
+- **Serving & Quantization** — vLLM, TensorRT-LLM, AWQ, FP8, Ollama, llama.cpp
+- **Frameworks** — LangChain, LlamaIndex, Semantic Kernel
+- **Models** — GPT-4, Claude, Gemini, Llama 3, Mistral, Phi-3
+- **Runtime** — Triton Inference Server, BentoML, Ray Serve
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC_LLMs-Fine--Tuning-6BA8E0?style=for-the-badge&labelColor=334155" alt="LLMs" />
-  <br><sub><b>LLM Fine-Tuning</b></sub>
-  <br><sub>LoRA • QLoRA • RLHF • DPO</sub>
+<td width="50%" valign="top">
+
+### `02` GraphRAG & Knowledge Systems
+- **Vector Stores** — ChromaDB, Pinecone, Weaviate, Qdrant, FAISS
+- **Embeddings** — OpenAI, Cohere, BGE, E5, Sentence-BERT
+- **Chunking** — Semantic, Recursive, Agentic Chunking
+- **Retrieval** — Hybrid Search, Cross-Encoder Re-Ranking, GraphRAG
+- **Evaluation** — RAGAS, DeepEval, TruLens
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97_RAG-Production-7FB3E8?style=for-the-badge&labelColor=334155" alt="RAG" />
-  <br><sub><b>RAG Pipelines</b></sub>
-  <br><sub>Hybrid Search • Graph RAG</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` Multi-Agent Harnesses
+- **Frameworks** — LangGraph, CrewAI, AutoGen, Agno
+- **Protocols** — Model Context Protocol (MCP), A2A, Function Calling
+- **Reasoning** — ReAct, Chain-of-Thought, Tree-of-Thought
+- **Memory** — Short-Term, Long-Term, Episodic State Graphs
+- **Orchestration** — Deterministic Workflows & Hierarchical Agent Teams
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Inference-Scaling-93C5FD?style=for-the-badge&labelColor=334155" alt="Inference" />
-  <br><sub><b>Inference at Scale</b></sub>
-  <br><sub>vLLM • TensorRT-LLM • Triton</sub>
+<td width="50%" valign="top">
+
+### `04` MLOps & Production Infrastructure
+- **Pipelines** — MLflow, Kubeflow, Airflow, Prefect
+- **Observability** — Weights & Biases, Prometheus, Grafana
+- **CI/CD** — GitHub Actions, Jenkins, GitLab CI/CD
+- **Platform** — Docker, Kubernetes, Terraform
+- **Cloud** — AWS SageMaker, GCP Vertex AI, Azure ML
+
 </td>
 </tr>
 </table>
@@ -120,244 +242,186 @@ philosophy: >
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-<br>
 
-<!-- ───────────────────────── EXPERTISE ───────────────────────── -->
+<!-- ──────────────────── [04] 07-LAYER ARCHITECTURE ──────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GenAI%20Expertise&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GenAI Expertise" />
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Large Language Models
-- **Fine-Tuning**: LoRA, QLoRA, PEFT, RLHF, DPO, SFT
-- **Inference**: vLLM, TensorRT-LLM, Ollama, llama.cpp
-- **Frameworks**: LangChain, LlamaIndex, Semantic Kernel
-- **Models**: GPT-4, Claude, Gemini, Llama 3, Mistral, Phi-3
-- **Serving**: Triton Inference Server, BentoML, Ray Serve
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 RAG & Knowledge Systems
-- **Vector DBs**: ChromaDB, Pinecone, Weaviate, Qdrant, FAISS
-- **Embeddings**: OpenAI, Cohere, BGE, E5, Sentence-BERT
-- **Chunking**: Semantic, Recursive, Agentic Chunking
-- **Advanced RAG**: Hybrid Search, Re-ranking, Graph RAG
-- **Evaluation**: RAGAS, DeepEval, TruLens
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 AI Agents & Automation
-- **Agentic Frameworks**: LangGraph, CrewAI, AutoGen, Agno
-- **Tool Use**: Function Calling, MCP, API Orchestration
-- **Planning**: ReAct, Chain-of-Thought, Tree-of-Thought
-- **Memory**: Short-term, Long-term, Episodic Memory Systems
-- **Multi-Agent**: Collaborative & Hierarchical Agent Teams
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ MLOps & Production Systems
-- **Pipeline**: MLflow, Kubeflow, Airflow, Prefect
-- **Monitoring**: Weights & Biases, Prometheus, Grafana
-- **CI/CD**: GitHub Actions, Jenkins, GitLab CI/CD
-- **Infrastructure**: Docker, Kubernetes, Terraform
-- **Cloud**: AWS SageMaker, GCP Vertex AI, Azure ML
-
-</td>
-</tr>
-</table>
-
+  <img src="https://img.shields.io/badge/%5B04%5D_STAGE-07--LAYER_ARCHITECTURE-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 04 Architecture" />
 </div>
 
 <br>
-
-<!-- ─────────────────────── ARCHITECTURE ─────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GenAI%20Architecture%20Vision&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GenAI Architecture Vision" />
-</div>
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                     🧠  INTELLIGENT APPLICATION LAYER               │
-│    AI Agents  •  Chatbots  •  Co-Pilots  •  Autonomous Workflows   │
-├─────────────────────────────────────────────────────────────────────┤
-│                     🔗  ORCHESTRATION LAYER                         │
-│    LangGraph  •  CrewAI  •  AutoGen  •  MCP  •  A2A Protocol       │
-├─────────────────────────────────────────────────────────────────────┤
-│                     🤖  MODEL LAYER                                 │
-│    GPT-4  •  Claude  •  Gemini  •  Llama 3  •  Mistral  •  Phi-3  │
-├─────────────────────────────────────────────────────────────────────┤
-│                     📚  KNOWLEDGE LAYER                             │
-│    RAG  •  Vector DBs  •  Graph RAG  •  Embeddings  •  Re-ranking │
-├─────────────────────────────────────────────────────────────────────┤
-│                     🏗️  INFRASTRUCTURE LAYER                        │
-│    vLLM  •  Triton  •  K8s  •  Docker  •  AWS/GCP/Azure           │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────┐
+│  [07]  APPLICATION LAYER       Enterprise Clinical Ops · Co-Pilots · UI  │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [06]  AGENT HARNESS LAYER     LangGraph · CrewAI · AutoGen · Guardrails │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [05]  PROTOCOL & TOOL LAYER   MCP · A2A Protocol · JSON-RPC · OpenAPI   │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [04]  KNOWLEDGE LAYER         GraphRAG · Hybrid Search · Vector DBs     │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [03]  MODEL & ALIGNMENT       GPT-4 · Claude · Gemini · Llama 3 · DPO   │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [02]  INFERENCE & QUANT       vLLM · TensorRT-LLM · Triton · AWQ / FP8  │
+├───────────────────────────────────────────────────────────────────────────┤
+│  [01]  INFRASTRUCTURE LAYER    Kubernetes · Docker · AWS · GCP · Azure   │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><sub><code>─────────────────────────────── ┼ ───────────────────────────────</code></sub></div>
 <br>
 
-<!-- ─────────────────────── TECH STACK ─────────────────────── -->
+<!-- ─────────────────────── [05] TECH STACK ─────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Technical%20Arsenal&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Technical Arsenal" />
+  <img src="https://img.shields.io/badge/%5B05%5D_STAGE-TECHNICAL_ARSENAL-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 05 Tech Stack" />
 </div>
 
 <div align="center">
 
-### 🧠 Core AI & Generative AI
+#### `CORE AI & GENERATIVE MODELS`
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,rust,cpp,java&theme=light" alt="Core Languages" />
 <br><br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![Google Gemini](https://img.shields.io/badge/Gemini-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![Anthropic](https://img.shields.io/badge/Claude-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-5B9BD5?style=for-the-badge&logo=huggingface&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![MLflow](https://img.shields.io/badge/MLflow-5B9BD5?style=for-the-badge&logo=mlflow&logoColor=FFFFFF)
-![Weights & Biases](https://img.shields.io/badge/W%26B-5B9BD5?style=for-the-badge&logo=weightsandbiases&logoColor=FFFFFF)
-![vLLM](https://img.shields.io/badge/vLLM-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![TensorRT](https://img.shields.io/badge/TensorRT--LLM-5B9BD5?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
-![Ollama](https://img.shields.io/badge/Ollama-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![ONNX](https://img.shields.io/badge/ONNX-5B9BD5?style=for-the-badge&logo=onnx&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=F8FAFC)
+![Google Gemini](https://img.shields.io/badge/Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=F8FAFC)
+![Anthropic](https://img.shields.io/badge/Claude-0F172A?style=flat-square&logo=anthropic&logoColor=F8FAFC)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface&logoColor=F8FAFC)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=F8FAFC)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=flat-square&logoColor=F8FAFC)
+![MLflow](https://img.shields.io/badge/MLflow-0F172A?style=flat-square&logo=mlflow&logoColor=F8FAFC)
+![Weights & Biases](https://img.shields.io/badge/W%26B-0F172A?style=flat-square&logo=weightsandbiases&logoColor=F8FAFC)
+![vLLM](https://img.shields.io/badge/vLLM-0F172A?style=flat-square&logoColor=F8FAFC)
+![TensorRT](https://img.shields.io/badge/TensorRT--LLM-0F172A?style=flat-square&logo=nvidia&logoColor=F8FAFC)
+![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=F8FAFC)
+![ONNX](https://img.shields.io/badge/ONNX-0F172A?style=flat-square&logo=onnx&logoColor=F8FAFC)
 
 <br>
 
-### 🔌 Protocols & Agent Standards
+#### `PROTOCOLS & AGENT STANDARDS`
 
-![MCP](https://img.shields.io/badge/MCP-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![A2A](https://img.shields.io/badge/A2A_(Agent--to--Agent)-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![JSON-RPC](https://img.shields.io/badge/JSON--RPC-5B9BD5?style=for-the-badge&logo=json&logoColor=FFFFFF)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![Function Calling](https://img.shields.io/badge/Function_Calling-5B9BD5?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-5B9BD5?style=for-the-badge&logo=openapiinitiative&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/GraphQL-5B9BD5?style=for-the-badge&logo=graphql&logoColor=FFFFFF)
-![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-5B9BD5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-![Google Agent SDK](https://img.shields.io/badge/Google_Agent_SDK-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
+![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square&logo=anthropic&logoColor=F8FAFC)
+![A2A](https://img.shields.io/badge/A2A_Protocol-334155?style=flat-square&logo=googlegemini&logoColor=F8FAFC)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-334155?style=flat-square&logo=json&logoColor=F8FAFC)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-334155?style=flat-square&logoColor=F8FAFC)
+![Function Calling](https://img.shields.io/badge/Function_Calling-334155?style=flat-square&logo=googlegemini&logoColor=F8FAFC)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-334155?style=flat-square&logo=openapiinitiative&logoColor=F8FAFC)
+![GraphQL](https://img.shields.io/badge/GraphQL-334155?style=flat-square&logo=graphql&logoColor=F8FAFC)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-334155?style=flat-square&logo=anthropic&logoColor=F8FAFC)
+![Google Agent SDK](https://img.shields.io/badge/Google_Agent_SDK-334155?style=flat-square&logo=google&logoColor=F8FAFC)
 
 <br>
 
-### 🗄️ Vector Databases & Data Stores
+#### `VECTOR STORES & DATABASES`
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![Pinecone](https://img.shields.io/badge/Pinecone-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![Weaviate](https://img.shields.io/badge/Weaviate-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![Qdrant](https://img.shields.io/badge/Qdrant-5B9BD5?style=for-the-badge&logoColor=FFFFFF)
-![FAISS](https://img.shields.io/badge/FAISS-5B9BD5?style=for-the-badge&logo=meta&logoColor=FFFFFF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F1F5F9?style=flat-square&logoColor=0F172A)
+![Pinecone](https://img.shields.io/badge/Pinecone-F1F5F9?style=flat-square&logoColor=0F172A)
+![Weaviate](https://img.shields.io/badge/Weaviate-F1F5F9?style=flat-square&logoColor=0F172A)
+![Qdrant](https://img.shields.io/badge/Qdrant-F1F5F9?style=flat-square&logoColor=0F172A)
+![FAISS](https://img.shields.io/badge/FAISS-F1F5F9?style=flat-square&logo=meta&logoColor=0F172A)
 
+<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light" alt="Databases" />
 
 <br>
 
-### ☁️ Cloud & Infrastructure
+#### `CLOUD & INFRASTRUCTURE`
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=light" alt="Cloud" />
 <br><br>
 
-![SageMaker](https://img.shields.io/badge/SageMaker-5B9BD5?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-5B9BD5?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
-![Azure ML](https://img.shields.io/badge/Azure_ML-5B9BD5?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF)
-![Terraform](https://img.shields.io/badge/Terraform-5B9BD5?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
-![Triton](https://img.shields.io/badge/Triton_Server-5B9BD5?style=for-the-badge&logo=nvidia&logoColor=FFFFFF)
+![SageMaker](https://img.shields.io/badge/SageMaker-0F172A?style=flat-square&logo=amazonaws&logoColor=F8FAFC)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0F172A?style=flat-square&logo=googlecloud&logoColor=F8FAFC)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0F172A?style=flat-square&logo=microsoftazure&logoColor=F8FAFC)
+![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=flat-square&logo=terraform&logoColor=F8FAFC)
+![Triton](https://img.shields.io/badge/Triton_Server-0F172A?style=flat-square&logo=nvidia&logoColor=F8FAFC)
 
 <br>
 
-### ⚙️ Development & Automation
+#### `DEVELOPMENT & AUTOMATION`
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,githubactions,gitlab,jenkins,linux,bash,vscode&theme=light" alt="Dev Tools" />
 
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><sub><code>─────────────────────────────── ┼ ───────────────────────────────</code></sub></div>
 <br>
 
-<!-- ─────────────────────── ACHIEVEMENTS ─────────────────────── -->
-<!-- The trophy image service (github-profile-trophy.vercel.app) returns HTTP 402 and is removed. -->
+<!-- ─────────────────────── [06] TELEMETRY & SKILLS ─────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GitHub%20Achievements&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GitHub Achievements" />
-</div>
-
-<div align="center">
-
-  ![](https://img.shields.io/badge/🏆_Commits-Prolific_Contributor-5B9BD5?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/🔥_Streak-Consistency_King-5B9BD5?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/⭐_Stars-Open_Source_Star-6BA8E0?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/🍴_Forks-Community_Builder-6BA8E0?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/📦_Repos-Project_Architect-7FB3E8?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/🤝_PRs-Collaboration_Expert-7FB3E8?style=for-the-badge&labelColor=334155)
-  ![](https://img.shields.io/badge/💡_Issues-Problem_Solver-93C5FD?style=for-the-badge&labelColor=334155)
-
+  <img src="https://img.shields.io/badge/%5B06%5D_STAGE-TELEMETRY_%26_PROFICIENCY-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 06 Telemetry" />
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-<br>
-
-<!-- ───────────────────────── ANALYTICS ───────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=GitHub%20Analytics&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="GitHub Analytics" />
+
+```text
+┌───────────────────────────────────────────────────────────────────────────┐
+│  ■  PROFICIENCY MATRIX // CORE CAPABILITIES            SPECTRUM: BOREAL  │
+├───────────────────────────────────────────────────────────────────────────┤
+│                                                                           │
+│  AI / ML & GenAI           ████████████████████████████████████░░   95%   │
+│  GraphRAG & Retrieval      ███████████████████████████████████░░░   92%   │
+│  Multi-Agent Harnesses     █████████████████████████████████░░░░░   88%   │
+│  Backend Systems           ████████████████████████████████░░░░░░   86%   │
+│  MLOps & Serving           ████████████████████████████████░░░░░░   85%   │
+│  Cloud Architecture        ███████████████████████████████░░░░░░░   82%   │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
-<div align="center">
+<br>
 
 <div align="center">
   <a href="https://github.com/Rangow4562">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA" alt="GitHub Stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=false&border_color=CBD5E1&border_radius=4&bg_color=F8FAFC&title_color=0F172A&icon_color=0F172A&text_color=334155&ring_color=0F172A" alt="GitHub Stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/Rangow4562">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangow4562&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B&langs_count=8" alt="Top Languages" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangow4562&layout=compact&hide_border=false&border_color=CBD5E1&border_radius=4&bg_color=F8FAFC&title_color=0F172A&text_color=334155&langs_count=8" alt="Top Languages" />
   </a>
-  <br />
+  <br><br>
   <a href="https://github.com/Rangow4562">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=false&border_color=CBD5E1&border_radius=4&bg_color=F8FAFC&title_color=0F172A&icon_color=0F172A&text_color=334155&ring_color=0F172A&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Rangow4562">
+    <img src="https://streak-stats.demolab.com/?user=rangow4562&hide_border=false&border=CBD5E1&border_radius=4&background=F8FAFC&stroke=E2E8F0&ring=0F172A&fire=0F172A&currStreakLabel=0F172A&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&date_format=%5BY%20%5Dj%20%5BM%20%5Dd&mode=weekly" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
 
-  <a href="https://github.com/Rangow4562">
-    <img src="https://streak-stats.demolab.com/?user=rangow4562&hide_border=true&background=00000000&stroke=93C5FD&ring=60A5FA&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=64748B&currStreakNum=64748B&sideNums=64748B&dates=94A3B8&date_format=%5BY%20%5Dj%20%5BM%20%5Dd&mode=weekly" alt="GitHub Streak" />
-  </a>
+  ![](https://img.shields.io/badge/COMMITS-PROLIFIC_CONTRIBUTOR-0F172A?style=flat-square&labelColor=F1F5F9)
+  ![](https://img.shields.io/badge/STREAK-CONSISTENCY-0F172A?style=flat-square&labelColor=F1F5F9)
+  ![](https://img.shields.io/badge/STARS-OPEN_SOURCE-334155?style=flat-square&labelColor=F1F5F9)
+  ![](https://img.shields.io/badge/FORKS-COMMUNITY-334155?style=flat-square&labelColor=F1F5F9)
+  ![](https://img.shields.io/badge/REPOS-ARCHITECT-475569?style=flat-square&labelColor=F1F5F9)
+  ![](https://img.shields.io/badge/PRS-COLLABORATION-475569?style=flat-square&labelColor=F1F5F9)
 
 </div>
-
-<br>
 
 <!-- ───────────────────── CONTRIBUTION SNAKE ─────────────────────
-  The snake images returned 404 because the `output` branch does not exist yet.
-  1. Add .github/workflows/snake.yml (included alongside this README).
-  2. Run it once: Actions → "Generate Contribution Snake" → Run workflow.
-  3. Remove this comment wrapper so the block below is active.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Contribution%20Snake&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Contribution Snake" />
-</div>
+  1. Add .github/workflows/snake.yml and run it once to create the `output` branch.
+  2. Remove this comment wrapper so the block below is active.
 
 <div align="center">
   <picture>
@@ -368,60 +432,44 @@ philosophy: >
 </div>
 -->
 
-<!-- The activity-graph service (github-readme-activity-graph.vercel.app) returns HTTP 402 and is removed. -->
-
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><sub><code>─────────────────────────────── ┼ ───────────────────────────────</code></sub></div>
 <br>
 
-<!-- ─────────────────────── SKILL PROFICIENCY ─────────────────────── -->
+<!-- ───────────────────────── [07] CONNECT ───────────────────────── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Skill%20Proficiency&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Skill Proficiency" />
-</div>
-
-<div align="center">
-  <img src="./skills.svg" width="800" alt="Skill proficiency: AI/ML 95%, RAG Systems 92%, AI Agents 88%, MLOps 85%, Cloud 82%, Backend 86%" />
+  <img src="https://img.shields.io/badge/%5B07%5D_STAGE-CONTACT_%2F%2F_COLLABORATE-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 07 Contact" />
 </div>
 
 <br>
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-<br>
-
-<!-- ─────────────────────────── CONNECT ─────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:93C5FD&height=70&section=header&text=Let%27s%20Connect%20and%20Build%20the%20Future&fontSize=24&fontAlignY=45&fontColor=1E3A8A&animation=fadeIn" alt="Let's Connect" />
-</div>
 
 <div align="center">
 
 <a href="https://ranjithkumarkn.online/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-5B9BD5?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Visit_ranjithkumarkn.online_%E2%86%92-0F172A?style=for-the-badge&logo=googlechrome&logoColor=F8FAFC" alt="Portfolio" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/ranjith-kumar-58a676191/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-5B9BD5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-F1F5F9?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="LinkedIn" />
 </a>&nbsp;
 <a href="https://www.kaggle.com/rangow" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-5B9BD5?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-F1F5F9?style=for-the-badge&logo=kaggle&logoColor=0F172A" alt="Kaggle" />
 </a>&nbsp;
 <a href="mailto:ranjith.kumar.kn26@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-5B9BD5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-F1F5F9?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
 </a>&nbsp;
 <a href="https://github.com/Rangow4562" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-5B9BD5?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-F1F5F9?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
 </a>
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it%20with%20AI.&author=Ranjith%20Kumar%20K.N" alt="Quote" />
-
-</div>
-
+<sub><i>"Systems that matter in the real world — from ideas to real systems."</i></sub>
 <br>
+<sub><code>RK · RANJITH KUMAR K.N · BENGALURU · SPECTRUM: BOREAL</code></sub>
 
-<!-- ─────────────────────────── FOOTER ─────────────────────────── -->
+<br><br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:93C5FD,100:60A5FA&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=14&section=footer" width="100%" alt="Footer Bar" />
+
 </div>
