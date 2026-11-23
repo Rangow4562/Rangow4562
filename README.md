@@ -323,16 +323,18 @@ philosophy: >
 
 <div align="center">
 
+<div align="center">
   <a href="https://github.com/Rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rangow4562&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B&langs_count=10" alt="Top Languages" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Rangow4562">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&count_private=true&include_all_commits=true&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA" alt="GitHub Stats" />
   </a>
-
+  <a href="https://github.com/Rangow4562">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangow4562&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B&langs_count=8" alt="Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/Rangow4562">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rangow4562&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&ring_color=60A5FA&hide=issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
+  </a>
+</div>
 </div>
 
 <br>
