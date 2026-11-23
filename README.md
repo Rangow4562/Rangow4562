@@ -379,7 +379,7 @@ philosophy: >
 </div>
 
 <div align="center">
-  <img src="./assets/skills.svg" width="800" alt="Skill proficiency: AI/ML 95%, RAG Systems 92%, AI Agents 88%, MLOps 85%, Cloud 82%, Backend 86%" />
+  <img src="./skills.svg" width="800" alt="Skill proficiency: AI/ML 95%, RAG Systems 92%, AI Agents 88%, MLOps 85%, Cloud 82%, Backend 86%" />
 </div>
 
 <br>
