@@ -105,7 +105,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%5B01%5D_STAGE-ABOUT_%2F%2F_SYSTEM_SPEC-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 01 About" />
 </div>
-
+<div align="center">
+  <img src="./assets/boreal-terminal.svg" width="100%" alt="SPECTRUM: BOREAL System Specification Terminal" />
+</div>
 <br>
 
 ```yaml
