@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 684" width="820" height="684" role="img" aria-label="SPECTRUM: BOREAL System Specification Terminal">
+  <style>
+    .title {
+      font: 600 12px 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      fill: #94A3B8;
+    }
+    .code {
+      font: 400 13px 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      fill: #E2E8F0;
+    }
+    .prompt { fill: #38BDF8; font-weight: 600; }
+    .cmd    { fill: #F8FAFC; }
+    .cmt    { fill: #64748B; font-style: italic; }
+    .key    { fill: #7DD3FC; font-weight: 600; }
+    .val    { fill: #F8FAFC; }
+    .num    { fill: #34D399; font-weight: 600; }
+    .dash   { fill: #94A3B8; }
+    .quote  { fill: #CBD5E1; font-style: italic; }
+
+    .clip {
+      transform-origin: 24px 0px;
+      animation-name: typeLine;
+      animation-fill-mode: both;
+    }
+
+    @keyframes typeLine {
+      from { transform: scaleX(0); }
+      to   { transform: scaleX(1); }
+    }
+
+    .cursor {
+      fill: #38BDF8;
+      opacity: 0;
+      animation: blink 1s steps(1, end) 10.1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 49%   { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .l0  { animation-duration: 0.85s; animation-delay: 0.20s; animation-timing-function: steps(42, end); }
+    .l1  { animation-duration: 0.35s; animation-delay: 1.25s; animation-timing-function: steps(41, end); }
+    .l2  { animation-duration: 0.15s; animation-delay: 1.65s; animation-timing-function: steps(10, end); }
+    .l3  { animation-duration: 0.25s; animation-delay: 1.85s; animation-timing-function: steps(25, end); }
+    .l4  { animation-duration: 0.35s; animation-delay: 2.15s; animation-timing-function: steps(47, end); }
+    .l5  { animation-duration: 0.25s; animation-delay: 2.55s; animation-timing-function: steps(28, end); }
+    .l6  { animation-duration: 0.35s; animation-delay: 2.85s; animation-timing-function: steps(52, end); }
+    .l7  { animation-duration: 0.45s; animation-delay: 3.25s; animation-timing-function: steps(73, end); }
+    .l8  { animation-duration: 0.15s; animation-delay: 3.80s; animation-timing-function: steps(11, end); }
+    .l9  { animation-duration: 0.25s; animation-delay: 4.00s; animation-timing-function: steps(33, end); }
+    .l10 { animation-duration: 0.25s; animation-delay: 4.25s; animation-timing-function: steps(32, end); }
+    .l11 { animation-duration: 0.25s; animation-delay: 4.50s; animation-timing-function: steps(33, end); }
+    .l12 { animation-duration: 0.25s; animation-delay: 4.75s; animation-timing-function: steps(37, end); }
+    .l13 { animation-duration: 0.25s; animation-delay: 5.00s; animation-timing-function: steps(37, end); }
+    .l14 { animation-duration: 0.18s; animation-delay: 5.35s; animation-timing-function: steps(16, end); }
+    .l15 { animation-duration: 0.42s; animation-delay: 5.55s; animation-timing-function: steps(72, end); }
+    .l16 { animation-duration: 0.35s; animation-delay: 6.00s; animation-timing-function: steps(55, end); }
+    .l17 { animation-duration: 0.42s; animation-delay: 6.38s; animation-timing-function: steps(72, end); }
+    .l18 { animation-duration: 0.42s; animation-delay: 6.83s; animation-timing-function: steps(72, end); }
+    .l19 { animation-duration: 0.40s; animation-delay: 7.28s; animation-timing-function: steps(67, end); }
+    .l20 { animation-duration: 0.15s; animation-delay: 7.78s; animation-timing-function: steps(10, end); }
+    .l21 { animation-duration: 0.35s; animation-delay: 7.96s; animation-timing-function: steps(57, end); }
+    .l22 { animation-duration: 0.40s; animation-delay: 8.34s; animation-timing-function: steps(66, end); }
+    .l23 { animation-duration: 0.30s; animation-delay: 8.77s; animation-timing-function: steps(45, end); }
+    .l24 { animation-duration: 0.15s; animation-delay: 9.18s; animation-timing-function: steps(8, end);  }
+    .l25 { animation-duration: 0.50s; animation-delay: 9.38s; animation-timing-function: steps(71, end); }
+    .l26 { animation-duration: 0.05s; animation-delay: 10.00s; animation-timing-function: steps(1, end); }
+  </style>
+
+  <defs>
+    <clipPath id="c0"><rect x="24" y="48" width="772" height="22" class="clip l0" /></clipPath>
+    <clipPath id="c1"><rect x="24" y="76" width="772" height="22" class="clip l1" /></clipPath>
+    <clipPath id="c2"><rect x="24" y="96" width="772" height="22" class="clip l2" /></clipPath>
+    <clipPath id="c3"><rect x="24" y="116" width="772" height="22" class="clip l3" /></clipPath>
+    <clipPath id="c4"><rect x="24" y="136" width="772" height="22" class="clip l4" /></clipPath>
+    <clipPath id="c5"><rect x="24" y="156" width="772" height="22" class="clip l5" /></clipPath>
+    <clipPath id="c6"><rect x="24" y="176" width="772" height="22" class="clip l6" /></clipPath>
+    <clipPath id="c7"><rect x="24" y="196" width="772" height="22" class="clip l7" /></clipPath>
+
+    <clipPath id="c8"><rect x="24" y="228" width="772" height="22" class="clip l8" /></clipPath>
+    <clipPath id="c9"><rect x="24" y="248" width="772" height="22" class="clip l9" /></clipPath>
+    <clipPath id="c10"><rect x="24" y="268" width="772" height="22" class="clip l10" /></clipPath>
+    <clipPath id="c11"><rect x="24" y="288" width="772" height="22" class="clip l11" /></clipPath>
+    <clipPath id="c12"><rect x="24" y="308" width="772" height="22" class="clip l12" /></clipPath>
+    <clipPath id="c13"><rect x="24" y="328" width="772" height="22" class="clip l13" /></clipPath>
+
+    <clipPath id="c14"><rect x="24" y="360" width="772" height="22" class="clip l14" /></clipPath>
+    <clipPath id="c15"><rect x="24" y="380" width="772" height="22" class="clip l15" /></clipPath>
+    <clipPath id="c16"><rect x="24" y="400" width="772" height="22" class="clip l16" /></clipPath>
+    <clipPath id="c17"><rect x="24" y="420" width="772" height="22" class="clip l17" /></clipPath>
+    <clipPath id="c18"><rect x="24" y="440" width="772" height="22" class="clip l18" /></clipPath>
+    <clipPath id="c19"><rect x="24" y="460" width="772" height="22" class="clip l19" /></clipPath>
+
+    <clipPath id="c20"><rect x="24" y="492" width="772" height="22" class="clip l20" /></clipPath>
+    <clipPath id="c21"><rect x="24" y="512" width="772" height="22" class="clip l21" /></clipPath>
+    <clipPath id="c22"><rect x="24" y="532" width="772" height="22" class="clip l22" /></clipPath>
+    <clipPath id="c23"><rect x="24" y="552" width="772" height="22" class="clip l23" /></clipPath>
+
+    <clipPath id="c24"><rect x="24" y="584" width="772" height="22" class="clip l24" /></clipPath>
+    <clipPath id="c25"><rect x="24" y="604" width="772" height="22" class="clip l25" /></clipPath>
+    <clipPath id="c26"><rect x="24" y="638" width="772" height="22" class="clip l26" /></clipPath>
+  </defs>
+
+  
+  <rect x="0.5" y="0.5" width="819" height="683" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1" />
+
+  
+  <path d="M 10.5 0.5 H 809.5 A 10 10 0 0 1 819.5 10.5 V 36 H 0.5 V 10.5 A 10 10 0 0 1 10.5 0.5 Z" fill="#1E293B" />
+  <line x1="0" y1="36" x2="820" y2="36" stroke="#334155" stroke-width="1" />
+
+  
+  <circle cx="22" cy="18" r="5.5" fill="#475569" />
+  <circle cx="40" cy="18" r="5.5" fill="#475569" />
+  <circle cx="58" cy="18" r="5.5" fill="#475569" />
+  <text x="410" y="22" text-anchor="middle" class="title">ranjith@boreal — zsh — spectrum-boreal.yaml</text>
+
+  
+  <text x="24" y="64" class="code" xml:space="preserve" clip-path="url(#c0)"><tspan class="prompt">ranjith@boreal:~$</tspan> <tspan class="cmd">cat spectrum-boreal.yaml</tspan></text>
+
+  
+  <text x="24" y="92" class="code cmt" xml:space="preserve" clip-path="url(#c1)"># SPECTRUM: BOREAL · SYSTEM SPECIFICATION</text>
+  <text x="24" y="112" class="code key" xml:space="preserve" clip-path="url(#c2)">architect:</text>
+  <text x="24" y="132" class="code" xml:space="preserve" clip-path="url(#c3)">  <tspan class="key">name:</tspan> <tspan class="val">Ranjith Kumar K.N</tspan></text>
+  <text x="24" y="152" class="code" xml:space="preserve" clip-path="url(#c4)">  <tspan class="key">role:</tspan> <tspan class="val">Senior AI Architect @ Access Healthcare</tspan></text>
+  <text x="24" y="172" class="code" xml:space="preserve" clip-path="url(#c5)">  <tspan class="key">location:</tspan> <tspan class="val">Bengaluru, India</tspan></text>
+  <text x="24" y="192" class="code" xml:space="preserve" clip-path="url(#c6)">  <tspan class="key">experience:</tspan> <tspan class="val">5+ Years in Production AI &amp; ML Systems</tspan></text>
+  <text x="24" y="212" class="code" xml:space="preserve" clip-path="url(#c7)">  <tspan class="key">focus:</tspan> <tspan class="val">Multi-Agent Harnesses · MCP · GraphRAG · Low-Latency LLM Serving</tspan></text>
+
+  <text x="24" y="244" class="code key" xml:space="preserve" clip-path="url(#c8)">benchmarks:</text>
+  <text x="24" y="264" class="code" xml:space="preserve" clip-path="url(#c9)">  <tspan class="key">deterministic_accuracy:</tspan> <tspan class="num">"97.2%"</tspan></text>
+  <text x="24" y="284" class="code" xml:space="preserve" clip-path="url(#c10)">  <tspan class="key">p99_latency_reduction:</tspan>  <tspan class="num">"-45%"</tspan></text>
+  <text x="24" y="304" class="code" xml:space="preserve" clip-path="url(#c11)">  <tspan class="key">system_uptime:</tspan>          <tspan class="num">"99.9%"</tspan></text>
+  <text x="24" y="324" class="code" xml:space="preserve" clip-path="url(#c12)">  <tspan class="key">quantization:</tspan>           <tspan class="num">"AWQ / FP8"</tspan></text>
+  <text x="24" y="344" class="code" xml:space="preserve" clip-path="url(#c13)">  <tspan class="key">stack_depth:</tspan>            <tspan class="num">"07 Layers"</tspan></text>
+
+  <text x="24" y="376" class="code key" xml:space="preserve" clip-path="url(#c14)">current_mission:</text>
+  <text x="24" y="396" class="code" xml:space="preserve" clip-path="url(#c15)"><tspan class="dash">-</tspan> Designing deterministic multi-agent harnesses with tool-use &amp; planning</text>
+  <text x="24" y="416" class="code" xml:space="preserve" clip-path="url(#c16)"><tspan class="dash">-</tspan> Fine-tuning domain LLMs (LoRA, QLoRA, RLHF, DPO, SFT)</text>
+  <text x="24" y="436" class="code" xml:space="preserve" clip-path="url(#c17)"><tspan class="dash">-</tspan> Architecting GraphRAG &amp; hybrid retrieval pipelines at enterprise scale</text>
+  <text x="24" y="456" class="code" xml:space="preserve" clip-path="url(#c18)"><tspan class="dash">-</tspan> Optimizing low-latency inference (vLLM, TensorRT-LLM, Triton, AWQ/FP8)</text>
+  <text x="24" y="476" class="code" xml:space="preserve" clip-path="url(#c19)"><tspan class="dash">-</tspan> Building multi-modal AI systems across Vision, Language, and Code</text>
+
+  <text x="24" y="508" class="code key" xml:space="preserve" clip-path="url(#c20)">exploring:</text>
+  <text x="24" y="528" class="code" xml:space="preserve" clip-path="url(#c21)"><tspan class="dash">-</tspan> Mixture of Experts (MoE) &amp; sparse routing architectures</text>
+  <text x="24" y="548" class="code" xml:space="preserve" clip-path="url(#c22)"><tspan class="dash">-</tspan> Agent protocols (MCP, A2A) &amp; deterministic evaluation guardrails</text>
+  <text x="24" y="568" class="code" xml:space="preserve" clip-path="url(#c23)"><tspan class="dash">-</tspan> On-device &amp; edge LLM inference optimization</text>
+
+  <text x="24" y="600" class="code" xml:space="preserve" clip-path="url(#c24)"><tspan class="key">ethos:</tspan> <tspan class="dash">&gt;</tspan></text>
+  <text x="24" y="620" class="code quote" xml:space="preserve" clip-path="url(#c25)">  "Systems that matter in the real world — from ideas to real systems."</text>
+
+  
+  <text x="24" y="654" class="code" xml:space="preserve" clip-path="url(#c26)"><tspan class="prompt">ranjith@boreal:~$</tspan> <tspan class="cursor">▋</tspan></text>
+</svg>
