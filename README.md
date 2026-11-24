@@ -27,9 +27,10 @@
 <!-- ───────────────────── TYPING SUBHEADER ───────────────────── -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=600&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=40&lines=Multi-Agent+Harnesses+%C2%B7+MCP+%C2%B7+GraphRAG+%C2%B7+Low-Latency+LLM+Serving;Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;97.2%25+Deterministic+Accuracy+%C2%B7+-45%25+P99+Latency+%C2%B7+AWQ+%2F+FP8;Systems+that+matter+in+the+real+world.+%E2%80%94+From+ideas+to+real+systems." alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=600&color=F8FAFC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=40&lines=Multi-Agent+Harnesses+%C2%B7+MCP+%C2%B7+GraphRAG+%C2%B7+Low-Latency+LLM+Serving;Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;97.2%25+Deterministic+Accuracy+%C2%B7+-45%25+P99+Latency+%C2%B7+AWQ+%2F+FP8;Systems+that+matter+in+the+real+world.+%E2%80%94+From+ideas+to+real+systems." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=600&color=0F172A&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=40&lines=Multi-Agent+Harnesses+%C2%B7+MCP+%C2%B7+GraphRAG+%C2%B7+Low-Latency+LLM+Serving;Fine-Tuning+LLMs+%E2%80%94+LoRA+%7C+QLoRA+%7C+RLHF+%7C+DPO+%7C+SFT;97.2%25+Deterministic+Accuracy+%C2%B7+-45%25+P99+Latency+%C2%B7+AWQ+%2F+FP8;Systems+that+matter+in+the+real+world.+%E2%80%94+From+ideas+to+real+systems." alt="Typing SVG" />
+  </picture>
 </div>
 
 <!-- ───────────────────── TELEMETRY KPI STRIP ───────────────────── -->
