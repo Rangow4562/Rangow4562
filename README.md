@@ -101,46 +101,13 @@
 <br>
 
 <!-- ───────────────────────── [01] ABOUT ───────────────────────── -->
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/%5B01%5D_STAGE-ABOUT_%2F%2F_SYSTEM_SPEC-0F172A?style=flat-square&labelColor=F1F5F9" alt="Stage 01 About" />
 </div>
 <div align="center">
-  <img src="./assets/boreal-terminal.svg" width="100%" alt="SPECTRUM: BOREAL System Specification Terminal" />
+  <img src="boreal-terminal.svg" width="100%" alt="SPECTRUM: BOREAL System Specification Terminal" />
 </div>
-<br>
-
-```yaml
-# SPECTRUM: BOREAL · SYSTEM SPECIFICATION
-architect:
-  name: Ranjith Kumar K.N
-  role: Senior AI Architect @ Access Healthcare
-  location: Bengaluru, India
-  experience: 5+ Years in Production AI & ML Systems
-  focus: Multi-Agent Harnesses · MCP · GraphRAG · Low-Latency LLM Serving
-
-benchmarks:
-  deterministic_accuracy: "97.2%"
-  p99_latency_reduction:  "-45%"
-  system_uptime:          "99.9%"
-  quantization:           "AWQ / FP8"
-  stack_depth:            "07 Layers"
-
-current_mission:
-  - Designing deterministic multi-agent harnesses with tool-use & planning
-  - Fine-tuning domain LLMs (LoRA, QLoRA, RLHF, DPO, SFT)
-  - Architecting GraphRAG & hybrid retrieval pipelines at enterprise scale
-  - Optimizing low-latency inference (vLLM, TensorRT-LLM, Triton, AWQ/FP8)
-  - Building multi-modal AI systems across Vision, Language, and Code
-
-exploring:
-  - Mixture of Experts (MoE) & sparse routing architectures
-  - Agent protocols (MCP, A2A) & deterministic evaluation guardrails
-  - On-device & edge LLM inference optimization
-
-ethos: >
-  "Systems that matter in the real world — from ideas to real systems."
-```
 
 <br>
 
